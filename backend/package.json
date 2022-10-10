@@ -1,0 +1,25 @@
+{
+  "name": "yelpteddypro",
+  "version": "1.0.0",
+  "description": "AngularJS version",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iven-yao/yelpteddyPro.git"
+  },
+  "author": "iven",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "bugs": {
+    "url": "https://github.com/iven-yao/yelpteddyPro/issues"
+  },
+  "homepage": "https://github.com/iven-yao/yelpteddyPro#readme"
+}
