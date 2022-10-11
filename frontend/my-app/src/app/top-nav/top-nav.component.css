@@ -1,0 +1,14 @@
+.nav-item a div{
+  text-align: end;
+  padding: 5px;
+}
+
+.nav-item a.active div
+{
+  border:1px solid #fff;
+  border-radius: 5px;
+}
+
+nav {
+  background-color: maroon!important;
+}
